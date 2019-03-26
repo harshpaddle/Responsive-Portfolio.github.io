@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  background:beige;
+  margin: 0 auto;
+  font-family: 'Georgia',
+  Times,
+  Times New Roman,
+  serif;
+}
+
+header {
+  background: white;
+  width: 100%;
+  clear: both;
+  padding-bottom: 76px;
+}
+
+h1 {
+  background: #4aaaa5;
+  margin-left: 0px;
+  float: left;
+  margin: 0 auto;
+  padding: 20px 15px;
+  color: white;
+}
+
+h2 {
+  color: #4aaaa5;
+  padding: 15px;
+  margin: 0 auto;
+  padding-bottom: 5px;
+}
+
+a {
+  padding-left: 19px;
+  text-decoration-line: none;
+  color: gray;
+}
+
+
+
+footer {
+  background: #666666;
+  padding-top: 20px;
+  text-align: center;
+  border-top: #4aaaa5 solid 5px;
+  clear: both;
+}
+
+img {
+  float: left;
+  margin: 30px;
+  clear: both;
+}
+
+p {
+  padding: 10px;
+}
+
+input {
+  width: 100%;
+}
+
+button {
+  padding: 10px 30px;
+  background: #4aaaa5;
+}
+
+.sub {
+  border-top: 2px solid #666666;
+  margin: 0px 10px;
+  padding: 5px 10px;
+  width: 97%;
+  margin: 0 auto;
+}
+
+.subheader {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.right-nav {
+  float: right;
+  padding-top: 50px;
+}
+
+.pageback {
+  /* clear: both; */
+  width: 80%;
+  margin: 0 auto;
+  background: white;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.images {
+  float: left;
+}
+
