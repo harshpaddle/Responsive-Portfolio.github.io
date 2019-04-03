@@ -2,7 +2,9 @@
 
 ### Overview
 
-Hello there. Welcome to a different version of my portfolio. What makes this version special and the reason why its called Repsonsive is that its contents repsonds and adjusts based on different screen sizes. Rendering as much content on screen as possible as the window shrinks. This also helps the page presentation on different screen size such as tablet or cell phones.
+Hello there. Welcome to a different version of my portfolio. What makes this version special and the reason why its called Repsonsive is that its contents repsonds and adjusts based on different screen sizes. 
+
+Responsive web design is about creating web sites which automatically adjust themselves to render its contents best way possible on all devices, from small phones to large desktops.
 
 ### Programming languages used
 
